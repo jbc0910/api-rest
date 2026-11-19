@@ -1,0 +1,10 @@
+{
+  "name": "agencia-viajes-api",
+  "version": "1.0.0",
+  "description": "API REST de una agencia de viajes con el módulo http de Node y frontend en HTML/CSS/JS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b2e5d3c9-6c4f-4a7b-8d8e-2f3a4b5c6d02",
+    "destino": "Cusco y Machu Picchu",
+    "pais": "Perú",
+    "categoria": "Aventura",
+    "fechaSalida": "2027-01-10",
+    "fechaRegreso": "2027-01-17",
+    "precio": 1480,
+    "cupos": 8,
+    "descripcion": "Camino Inca corto, Valle Sagrado y entrada a Machu Picchu.",
+    "creado": "2026-11-15T12:01:00.000Z"
+  },
+  {
+    "id": "c3d6e4fa-7d5a-4b8c-9e9f-3a4b5c6d7e03",
+    "destino": "Buenos Aires",
+    "pais": "Argentina",
+    "categoria": "Ciudad",
+    "fechaSalida": "2027-02-05",
+    "fechaRegreso": "2027-02-10",
+    "precio": 890,
+    "cupos": 2,
+    "descripcion": "City tour, show de tango y visita a San Telmo.",
+    "creado": "2026-11-15T12:02:00.000Z"
+  },
+  {
+    "id": "d4e7f5ab-8e6b-4c9d-8faf-4b5c6d7e8f04",
+    "destino": "Bariloche",
+    "pais": "Argentina",
+    "categoria": "Montaña",
+    "fechaSalida": "2027-07-15",
+    "fechaRegreso": "2027-07-22",
+    "precio": 1100,
+    "cupos": 15,
+    "descripcion": "Esquí en Cerro Catedral y circuito chico de lagos.",
+    "creado": "2026-11-15T12:03:00.000Z"
+  },
+  {
+    "id": "5f3ec902-00df-40cf-9e91-0caee68eb14c",
+    "descripcion": "",
+    "destino": "CDMX",
+    "pais": "Mexico",
+    "categoria": "Ciudad",
+    "fechaSalida": "2026-11-19",
+    "fechaRegreso": "2026-11-21",
+    "precio": 10,
+    "cupos": 3,
+    "creado": "2026-11-19T21:16:06.953Z"
+  }
+]
